@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.TienClock {
+    padding: 20px;
+    background-image: url(Tien4.jpg);
+    height: 1000px;
+    background-size:contain;
+}
+
+.containerClock {
+    padding: 20px;
+    background-color: #ffff;
+    text-align: center;
+    display: inline-block;
+}
+
+.btnChangeBg {
+    padding: 10px;
+}
